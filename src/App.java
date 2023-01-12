@@ -54,4 +54,5 @@ public class App {
         System.out.println("Conteúdos Concluidos Olívia:" + devOlivia.getConteudosConcluidos());
         System.out.println("XP:" + devOlivia.calcularTotalXp());
     }
+    
 }

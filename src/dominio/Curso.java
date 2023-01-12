@@ -28,4 +28,5 @@ public class Curso extends Conteudo {
                 ", cargaHoraria=" + cargaHoraria +
                 '}';
     }
+    
 }
