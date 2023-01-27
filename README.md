@@ -1,6 +1,18 @@
-## Getting Started
+## Challenge: Abstracting a Bootcamp Using Object Orientation in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+💎The main objective is to put into practice one of the main tools of OO: ABSTRACTION, ENCAPSULATION, HERANCE AND POLYMORPHISM, through a Java project.
+
+🛑 Prerequisites
+✅Know the syntax of Java
+✅Java JDK 11
+✅IDE for Java development (I will use Visual Studio Code)
+✅git
+✅Account on GitHub
+
+👣Step-by-Step
+1. Abstract the Bootcamp domain and model its attributes and methods.
+2. Create the classes: Bootcamp, Courses, Mentorships and Devs and relate them.
+3. The Course, Mentorship and Devs classes will also be modeled, that is, their attributes and methods will be created.
 
 ## Folder Structure
 
